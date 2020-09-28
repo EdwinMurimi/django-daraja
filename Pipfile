@@ -8,6 +8,9 @@ autopep8 = "*"
 
 [packages]
 requests = "*"
+django = "*"
+djangorestframework = "*"
+markdown = "*"
 
 [requires]
 python_version = "3.8"
